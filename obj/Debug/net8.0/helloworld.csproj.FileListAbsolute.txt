@@ -1,0 +1,14 @@
+D:\Dotnet training\TestAzureDevOop\helloworld\bin\Debug\net8.0\helloworld.exe
+D:\Dotnet training\TestAzureDevOop\helloworld\bin\Debug\net8.0\helloworld.deps.json
+D:\Dotnet training\TestAzureDevOop\helloworld\bin\Debug\net8.0\helloworld.runtimeconfig.json
+D:\Dotnet training\TestAzureDevOop\helloworld\bin\Debug\net8.0\helloworld.dll
+D:\Dotnet training\TestAzureDevOop\helloworld\bin\Debug\net8.0\helloworld.pdb
+D:\Dotnet training\TestAzureDevOop\helloworld\obj\Debug\net8.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet training\TestAzureDevOop\helloworld\obj\Debug\net8.0\helloworld.AssemblyInfoInputs.cache
+D:\Dotnet training\TestAzureDevOop\helloworld\obj\Debug\net8.0\helloworld.AssemblyInfo.cs
+D:\Dotnet training\TestAzureDevOop\helloworld\obj\Debug\net8.0\helloworld.csproj.CoreCompileInputs.cache
+D:\Dotnet training\TestAzureDevOop\helloworld\obj\Debug\net8.0\helloworld.dll
+D:\Dotnet training\TestAzureDevOop\helloworld\obj\Debug\net8.0\refint\helloworld.dll
+D:\Dotnet training\TestAzureDevOop\helloworld\obj\Debug\net8.0\helloworld.pdb
+D:\Dotnet training\TestAzureDevOop\helloworld\obj\Debug\net8.0\helloworld.genruntimeconfig.cache
+D:\Dotnet training\TestAzureDevOop\helloworld\obj\Debug\net8.0\ref\helloworld.dll
